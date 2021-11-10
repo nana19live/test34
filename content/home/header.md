@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Header
 headless: true
-weight: 10
+weight: 100
 title: Downsize My Democracy
 active: true
 design:
