@@ -1,5 +1,5 @@
 ---
-widget: Team-members
+widget: team-members
 widget_id: Members
 headless: true
 weight: 10
