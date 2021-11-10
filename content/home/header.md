@@ -16,6 +16,6 @@ This NWO Vidi project analyses the democratic consequences of increasing decentr
 
 `<!--StartFragment-->`
 
-`hero_media: ''assets/media/icon.png''`
+`hero_media: ''`assets/media/icon.png`''`
 
 `<!--EndFragment-->`
