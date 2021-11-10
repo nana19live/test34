@@ -16,7 +16,7 @@ design:
 
 `widget: hero headless: true `
 
-`hero_media:''assets/media/icon.png'' `
+`hero_media: ''assets/media/icon.png'' `
 
 `cta: url: 'https://wowchemy.com' label: Get Started icon_pack: fas icon: download cta_alt: url: 'https://wowchemy.com' label: View Documentation # Note. An optional note to show underneath the links. cta_note: label: ''`
 
