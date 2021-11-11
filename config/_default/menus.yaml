@@ -5,20 +5,17 @@
 
 main:
   - name: Home
-    url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+    url: '#home'
+   - name: Project
+    url: '#description'
     weight: 20
-  - name: Projects
+  - name: Subprojects
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: News
+    url: '#posts'
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
